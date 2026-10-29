@@ -1,0 +1,10 @@
+id: YDP458B002-V13
+category: displays
+size: "4.58"
+panel: tft
+resolution: 424x1280
+interface: [mipi]
+driver: JD9261T
+touch: null
+outline: 39.77 x 117.1 mm
+active_area: 36.74 x 110.4 mm
